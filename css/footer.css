@@ -90,7 +90,7 @@
     outline: transparent;
     width: 264px;
     height: 40px;
-    transition: 300ms ease-out;
+    transition: 250ms ease-out;
     transition-property: border-color;
 }
 .footer-form-input:focus{
@@ -110,7 +110,7 @@
     color: #fff;
     border: none;
     gap: 16px;
-    transition: 300ms ease-out;
+    transition: 250ms ease-out;
     transition-property: background-color;
 }
 .footer-form-btn:hover,.footer-form-btn:focus{
